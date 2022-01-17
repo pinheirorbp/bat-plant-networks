@@ -1,0 +1,2 @@
+# bat-plant-networks
+Code to reproduce the analyses of our study. To understand bat-plant network structure during an extreme ENSO event, we determined the links between frugivorous bat species and the plants they consume by DNA barcoding seeds and pulp in bat faeces. These interactions were recorded in the dry forest and rainforest of Costa Rica, during the dry and the wet seasons of an extreme El Niño year. From these we constructed seasonal and whole-year bat-plant networks and analyzed their structures and dissimilarities.
